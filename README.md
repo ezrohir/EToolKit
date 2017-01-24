@@ -27,3 +27,4 @@ ezrohir, jie.tane@gmal.com
 ## License
 
 EToolKit is available under the MIT license. See the LICENSE file for more info.
+EToolKit
