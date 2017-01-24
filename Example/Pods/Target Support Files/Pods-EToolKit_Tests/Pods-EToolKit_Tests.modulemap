@@ -1,0 +1,6 @@
+framework module Pods_EToolKit_Tests {
+  umbrella header "Pods-EToolKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

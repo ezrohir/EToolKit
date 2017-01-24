@@ -1,0 +1,22 @@
+{
+  "name": "EToolKit",
+  "version": "0.1.0",
+  "summary": "A short description of EToolKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/EToolKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ezrohir": "jie.tane@gmal.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/EToolKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EToolKit/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - EToolKit (0.1.0)
+
+DEPENDENCIES:
+  - EToolKit (from `../`)
+
+EXTERNAL SOURCES:
+  EToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EToolKit: 13d4f31d5378b901025bb6a48e6495eb3208b9f8
+
+PODFILE CHECKSUM: 12a11812c5b953e0441059f5ca9f4af86583a144
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module EToolKit {
+  umbrella header "EToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
